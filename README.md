@@ -1,2 +1,2 @@
 # SP
-Structual Programming solved exam problems and more @ FCSE - Skopje
+Structural Programming solved exam problems @ FCSE - Skopje
